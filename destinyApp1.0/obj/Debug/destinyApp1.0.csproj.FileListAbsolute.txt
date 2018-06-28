@@ -1,0 +1,30 @@
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\bin\Debug\destinyApp1.0.exe.config
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\bin\Debug\destinyApp1.0.exe
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\bin\Debug\destinyApp1.0.pdb
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0.g.resources
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1._0.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0.exe
+c:\users\user\documents\visual studio 2015\Projects\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0.pdb
+C:\git\destinyApp1.0\destinyApp1.0\bin\Debug\destinyApp1.0.exe.config
+C:\git\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0.exe
+C:\git\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0.pdb
+C:\git\destinyApp1.0\destinyApp1.0\bin\Debug\destinyApp1.0.exe
+C:\git\destinyApp1.0\destinyApp1.0\bin\Debug\destinyApp1.0.pdb
+C:\git\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0.csprojResolveAssemblyReference.cache
+C:\git\destinyApp1.0\destinyApp1.0\obj\Debug\MainWindow.g.cs
+C:\git\destinyApp1.0\destinyApp1.0\obj\Debug\App.g.cs
+C:\git\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0_MarkupCompile.cache
+C:\git\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0_MarkupCompile.lref
+C:\git\destinyApp1.0\destinyApp1.0\obj\Debug\MainWindow.baml
+C:\git\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0.g.resources
+C:\git\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1._0.Properties.Resources.resources
+C:\git\destinyApp1.0\destinyApp1.0\obj\Debug\destinyApp1.0.csproj.GenerateResource.Cache
+C:\git\destinyApp1.0\destinyApp1.0\obj\Debug\RandPic.g.cs
+C:\git\destinyApp1.0\destinyApp1.0\obj\Debug\RandPic.baml
